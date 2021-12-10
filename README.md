@@ -14,8 +14,3 @@
 - Contents
 
 <br>
-
-
-# 💭 Think
-
-What I Think
